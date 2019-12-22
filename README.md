@@ -1,4 +1,4 @@
-#constitutive modelling of skin
+# Constitutive Modelling of Skin
 
 - **uniaxial.m**
 
