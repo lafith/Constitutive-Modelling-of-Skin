@@ -1,5 +1,7 @@
 # Constitutive Modelling of Skin
 
+![All models and original data after fitting](https://github.com/lafith/constitutive-modelling-of-skin/blob/master/images/FIG.jpg)
+
 - **uniaxial.m**
 
 	Calls required functions sequentially. Main script.
