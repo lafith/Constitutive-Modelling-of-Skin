@@ -1,4 +1,4 @@
-#constitutive modelling of skin
+# Constitutive modelling of skin using various hyper elastic material models
 
 -*uniaxial.m*
 	Calls required functions sequentially. Main script.
