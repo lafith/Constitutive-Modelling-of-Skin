@@ -27,11 +27,11 @@ stretch2=stretch1(indx:end);
 stress2(stress2>200)=[];
 stretch2=stretch2(1:length(stress2));
 %}
-
 %filtering
 %[stress2,stretch2]=filtering(stress2,stretch2);
 
 %plotting original data
+
 %figure;
 %plot(stretch2,stress2,'r.');
 %hold on;
